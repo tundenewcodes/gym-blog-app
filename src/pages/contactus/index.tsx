@@ -34,7 +34,7 @@ const ContactUs = ({ setSelectedPage }: Props) => {
           <p className="my-5">
             Congue adipiscing risus commodo placerat. Tellus et in feugiat nisl
             sapien vel rhoncus. Placerat at in enim pellentesque. Nulla
-            adipiscing leo egestas nisi elit risus sit. Nunc cursus sagittis.
+            adipiscing leo egestas nisi elit risus sit. Nunc cursus sagittis. Using placeholder text
           </p>
         </motion.div>
 
